@@ -1,0 +1,139 @@
+body {
+    background-image: url("http://res.cloudinary.com/dhjypclhx/image/upload/v1504038856/background_cmjz5e.jpg");
+  background-size: 100% 100%;
+}
+
+.main-circle{
+  background-color:#323536;
+  height:300px;
+  width: 300px;
+  margin: 15px auto;
+  border-radius: 50%;
+  overflow:hidden;
+  position:relative;
+  border-style: solid;
+  border-color: #323536;
+  border-width: 15px;
+  box-shadow: 5px 5px 5px #28283e;
+  font-size: 12px;
+}
+
+.button{
+  height: 100%;
+  width:  50%;
+  outline:10px solid #323536;
+}
+
+.top,.bottom{
+  height: 50%;
+  width:  100%;
+}
+
+.green{
+  background-color:green;
+  float:left;
+}
+
+.red{
+  background-color:#9F0F18;
+  float:right;
+}
+
+.yellow{
+  background-color:#CFA40F;
+  float: left; 
+}
+
+.blue{
+  background-color:#094A8E;
+  float: right;
+}
+
+.center{
+  background-color:#ECE7EE;
+  top: 0; left: 0; bottom: 0; right: 0;
+  border: 10px solid #323536;
+  position: absolute;
+  height: 60%;
+  width: 60%;  
+  margin: auto;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.on-button{
+  height: 20px;
+  width: 20px;
+  background-color: white;
+  margin: auto;
+}
+
+.count{
+  width: 35px;
+  background-color: #006600;
+  border-radius: 20%;
+  font-family: 'Monofett', cursive;
+  color: #323536;
+  font-size: 30px;
+  margin: 0px auto 5px auto;
+}
+
+.start{
+  background-color: red;
+}
+
+.strict{
+  display:inline-block;
+}
+
+.round-button{
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  margin: 0px auto ;
+  border: 2px solid gray;
+  margin-bottom: 5px;
+  box-shadow: 2px 2px 2px black;
+}
+
+.strict-mode{
+  background-color: yellow;
+}
+
+.light{
+  height: 5px;
+  width: 5px;
+  border-radius: 50%;
+  background-color: #4d0000;
+  border-style: solid;
+  margin: 0px auto 5px auto;
+}
+
+.on{
+  background-color:red;
+}
+
+.box{
+  display:inline-block;
+  margin:30px 2px 0px 2px;
+}
+
+.on-button{
+  height: 15px;
+  width: 30px;
+  background-color: black;
+  display:inline-block;
+  vertical-align: text-bottom;
+}
+
+.switch{
+  background-color: #3366ff;
+  margin: 1px;
+  height: 85%;
+  width: 40%;
+  float: right;
+}
+
+.switch-on{
+  float: left;
+}
