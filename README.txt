@@ -1,4 +1,4 @@
-A Pen created at CodePen.io. Play my game at https://codepen.io/atalero/pen/prQrLg. 
+A Pen created at CodePen.io. Play my game at https://codepen.io/atalero/full/prQrLg/. 
 
 All visuals and functionality 100% coded and designed by me.
 
